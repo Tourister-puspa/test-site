@@ -1,0 +1,117 @@
+body {
+	background-color: rgb(151, 192, 247);
+}
+
+#head-img {
+    width: 100%;
+    height: 15vh;
+    object-fit: cover;
+    object-position: 0% 1;
+}
+
+#main {
+	background-color: white;
+	margin-top: 20px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+#main-head {
+	background-color: rgb(203, 220, 243);
+	border: 1px solid rgb(184, 211, 247);
+	margin-top: 10px;
+	border-radius: 25px;
+	text-align: center;
+	box-shadow: -1px 0px 18px 4px rgb(220, 230, 243);
+}
+
+#Titre {
+	padding: 5px 0;
+	text-align: center;
+}
+
+#banner {
+	border:1px solid rgb(184, 211, 247);
+	margin-top: 20px;
+	border-radius: 25px;
+}
+
+#annexe {
+	background-color: rgb(203, 220, 243);
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	margin-top: 20px;
+}
+
+#index {
+	border: 1px solid black;
+	background-color: white;
+	border-radius: 25px;
+	text-align: center;
+}
+
+#content-index {
+	color: white;
+	text-align: center;
+	margin-top: 15px;
+	padding-bottom: 15px;
+}
+
+#main-content {
+	margin-top: 20px;
+	border-radius: 25px;
+	align-items: center;
+	margin-left: 20px;
+}
+
+#Red {
+	border-radius: 25px;
+	background-color: rgba(62,62,90,255);
+}
+
+#Blue {
+	border-radius: 25px;
+	background-color: rgba(133,109,126,255);
+	margin-left: 20px;
+}
+
+#Home,
+#Gen1,
+#Gen2,
+#Gen3,
+#Gen4,
+#Gen5,
+#Gen6,
+#Gen7,
+#Gen8,
+#Gen9 {
+	padding-bottom: 5px;
+}
+
+#content-text {
+	margin-top: 20px;
+}
+
+#img-cont-text {
+	border: 1px solid black;
+}
+
+#Yellow {
+	background-color: rgb(203, 220, 243);
+	border: 1px solid rgb(184, 211, 247);
+	margin-top: 10px;
+	border-radius: 25px;
+	text-align: center;
+	box-shadow: -1px 0px 18px 4px rgb(220, 230, 243);
+}
+
+#Yellow-img {
+	border-radius: 25px;
+	background-color: yellow;
+	margin-top: 20px;
+	border-width: 30px;
+}
+
+#Yellow-text {
+	margin-top: 20px;
+}
